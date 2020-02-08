@@ -4,7 +4,8 @@ My works related to Insomnia
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
+3. [Insomnia shortcuts.](#shortcuts)
+4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -19,8 +20,13 @@ Official Insomnia documentation : https://support.insomnia.rest <br />
 **_Insomnia commands_** <br />
 httpbin.org : https://httpbin.org <br />
 
+<a name="shortcuts"></a>
+## 3. Insomnia shortcuts.
+**[ Ctrl ]** + **[ N ]** : create new request
+**[ Ctrl ]** + **[ Enter ]** : send request
+
 <a name="github"></a>
-## 9. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Insomnia.git
