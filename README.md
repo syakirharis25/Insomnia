@@ -20,6 +20,9 @@ Official Insomnia documentation : https://support.insomnia.rest <br />
 **_Insomnia commands_** <br />
 httpbin.org : https://httpbin.org <br />
 
+**_Insomnia JSON references_** <br />
+JSON Path by Stefan Goessner : https://goessner.net/articles/JsonPath/
+
 <a name="shortcuts"></a>
 ## 3. Insomnia shortcuts.
 **[ Ctrl ]** + **[ N ]** : create new request <br />
