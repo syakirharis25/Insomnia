@@ -22,8 +22,8 @@ httpbin.org : https://httpbin.org <br />
 
 <a name="shortcuts"></a>
 ## 3. Insomnia shortcuts.
-**[ Ctrl ]** + **[ N ]** : create new request
-**[ Ctrl ]** + **[ Enter ]** : send request
+**[ Ctrl ]** + **[ N ]** : create new request <br />
+**[ Ctrl ]** + **[ Enter ]** : send request <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
