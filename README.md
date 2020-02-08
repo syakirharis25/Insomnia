@@ -27,6 +27,8 @@ JSON Path by Stefan Goessner : https://goessner.net/articles/JsonPath/
 ## 3. Insomnia shortcuts.
 **[ Ctrl ]** + **[ N ]** : create new request <br />
 **[ Ctrl ]** + **[ Enter ]** : send request <br />
+**[ Ctrl ]** + **[ D ]** : duplicate request <br />
+**[ Shift ]** + **[ Ctrl ]** + **[ Delete ]** : delete request <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
