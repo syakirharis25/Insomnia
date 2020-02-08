@@ -16,7 +16,7 @@ Insomnia is a free cross-platform desktop application that takes the pain out of
 Official Insomnia website : https://insomnia.rest/ <br />
 Official Insomnia documentation : https://support.insomnia.rest <br />
 
-**_Insomnia related tools_**
+**_Insomnia related tools_** <br />
 httpbin.org : https://httpbin.org <br />
 
 <a name="github"></a>
