@@ -6,6 +6,7 @@ My works related to Insomnia
 2. [Official references websites.](#references)
 3. [Insomnia shortcuts.](#shortcuts)
 4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -38,3 +39,15 @@ $ git clone https://github.com/syakirharis25/Insomnia.git
 $ cd Insomnia/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 5. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              5              0             24
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
